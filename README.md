@@ -11,11 +11,13 @@ You need to install the curses library as follows:
 ## Compiling
 
 To compile the program, you're gonna follow the pattern below:
+
 `gcc space-invaders.c -o space-invaders -lncurses`
 
 ## Run
 
 To run, you just have to execute the binary file as follow (if you properly followed the last step):
+
 `./space-invaders`
 
 ## Game
