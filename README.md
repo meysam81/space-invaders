@@ -2,9 +2,6 @@
 an edition to the job that Chaser324 has done with the curses library in C program, implementing the old nostalgic game of the 20 century
 
 
-# Here's my reference
-https://github.com/Chaser324/invaders
-
 ## Prerequisite
 
 You need to install the curses library as follows:
@@ -23,3 +20,6 @@ To run, you just have to execute the binary file as follow (if you properly foll
 
 ## Game
 Enjoy!
+
+### Here's my reference
+https://github.com/Chaser324/invaders
